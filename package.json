@@ -26,11 +26,12 @@
     "test": "grunt test"
   },
   "dependencies": {
-    "grunt": "~0.3.11",
-    "node-beautify": "0.0.x"
+    "grunt": "~0.4.0",
+    "node-beautify": "0.0.x",
+    "grunt-contrib-jshint": "~0.1.1"
   },
   "devDependencies": {
-    "grunt": "~0.3.11"
+    "grunt": "~0.4.0"
   },
   "keywords": ["gruntplugin", "beautifier", "grunt", "pretty", "print", "printer"]
 }
